@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "chrono": "cpp",
+        "stdlib.h": "c",
+        "bitset": "c",
+        "algorithm": "c",
+        "random": "c",
+        "iostream": "cpp"
+    }
+}
